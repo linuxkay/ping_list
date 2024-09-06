@@ -12,7 +12,7 @@ Networking
 ## Description
 The ping_list had been developped for very simple task pingging multiple hosts.
 
-However, after the AI era, In use of AI(Sonet3.5) made the original version much faster and very easy to work with.
+However, after the AI era, In use of AI(Sonet3.5) improved the original version much faster and very easy to work with.
 
 The huge impact of using AI was, make the script to work parallel so instead of pinging hosts one by one, it can ping multiple hosts (Max=100) at the same time.
 
@@ -40,9 +40,9 @@ Powershell 5.1 can run ping_list_original.ps1
 ## Contributions
 
 ## Updates
-2024_04_07 original version were maed.
+2024_04_07 Original version were built.
 
-2024_09_05 Improved version were made by AI (sonet3.5)
+2024_09_05 Improved version were built by AI (sonet3.5)
 
 ## Memo
 
