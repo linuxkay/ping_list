@@ -11,11 +11,17 @@ Networking
 
 ## Description
 The ping_list had been developped for very simple task pingging multiple hosts.
+
 However, after the AI era, In use of AI(Sonet3.5) made the original version much faster and very easy to work with.
-The huge impact of using AI was, make the script to work parallel so instead of pinging hosts one by one, it can ping multiple hosts (Max=100) at same time.
+
+The huge impact of using AI was, make the script to work parallel so instead of pinging hosts one by one, it can ping multiple hosts (Max=100) at the same time.
+
 This was huge time saver. Original version took more time if there's more hosts.
+
 Comparison with origianl version and AI improved version.
+
 Original: 100hosts takes 5mins
+
 AI improved: 100hosts takes 3secs.
 
 
